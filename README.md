@@ -6,6 +6,7 @@ This file conatins the basic idea behind electoins using azure blockchain.
 2. Living in different location
 3. Vote counting
 4. EVM hacking
+
 Using the concept of blockchain these issues related to election in India can be easily resolved. 
 The basic idea is to create a blockchain for every constituency in India and contest election for that constituency using block.
 
